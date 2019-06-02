@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhackAMole.UI", "WhackAMole.UI\WhackAMole.UI.csproj", "{BC6865D4-3316-4F38-ABC7-3B36D8EA498E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhackAMole.BLL", "WhackAMole.BLL\WhackAMole.BLL.csproj", "{92084E9F-1508-4A95-82F7-912B61EB91F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6865D4-3316-4F38-ABC7-3B36D8EA498E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6865D4-3316-4F38-ABC7-3B36D8EA498E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6865D4-3316-4F38-ABC7-3B36D8EA498E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6865D4-3316-4F38-ABC7-3B36D8EA498E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92084E9F-1508-4A95-82F7-912B61EB91F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92084E9F-1508-4A95-82F7-912B61EB91F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92084E9F-1508-4A95-82F7-912B61EB91F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92084E9F-1508-4A95-82F7-912B61EB91F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBC6D78-051D-4EF7-94CF-3119AD9B80B4}
+	EndGlobalSection
+EndGlobal

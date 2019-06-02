@@ -1,0 +1,8 @@
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\bin\Debug\WhackAMole.BLL.dll
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\bin\Debug\WhackAMole.BLL.pdb
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\obj\Debug\WhackAMole.BLL.csprojAssemblyReference.cache
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\obj\Debug\WhackAMole.BLL.Properties.Resources.resources
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\obj\Debug\WhackAMole.BLL.csproj.GenerateResource.cache
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\obj\Debug\WhackAMole.BLL.csproj.CoreCompileInputs.cache
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\obj\Debug\WhackAMole.BLL.dll
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.BLL\obj\Debug\WhackAMole.BLL.pdb

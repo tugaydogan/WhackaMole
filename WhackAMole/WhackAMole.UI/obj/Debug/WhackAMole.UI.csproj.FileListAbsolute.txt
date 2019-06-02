@@ -1,0 +1,13 @@
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\bin\Debug\WhackAMole.UI.exe.config
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\bin\Debug\WhackAMole.UI.exe
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\bin\Debug\WhackAMole.UI.pdb
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\bin\Debug\WhackAMole.BLL.dll
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\bin\Debug\WhackAMole.BLL.pdb
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.csprojAssemblyReference.cache
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.MoleGameForm.resources
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.Properties.Resources.resources
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.csproj.GenerateResource.cache
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.csproj.CoreCompileInputs.cache
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.csproj.CopyComplete
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.exe
+C:\Users\tugay\Desktop\WhackAMole\WhackAMole.UI\obj\Debug\WhackAMole.UI.pdb
